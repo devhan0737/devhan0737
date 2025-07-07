@@ -8,7 +8,7 @@
 ```javascript
 class MyIntro {
   name = '한상진';
-  nickName = 'capybara';
+  nickName = 'copybara';
   habitat = 'Seoul, South Korea';
   techSkill = {
     editor: ['VS Code'],
@@ -25,9 +25,6 @@ class MyIntro {
 
   toBeFEDeveloper() {
     console.log('계속 성장해서 프론트엔드 장인이 될 거예요 💪');
-  }
-  moreCreative() {
-    console.log('지루함은 NO! 늘 새로운 아이디어를 찾아요 🎨');
   }
   moreFun() {
     console.log('코딩도 인생도 즐겁게 😄');
