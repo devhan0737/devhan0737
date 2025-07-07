@@ -2,7 +2,7 @@
 ```javascript
 class MyIntro {
   name = 'Han SangJin';
-  nickName = 'copybara';
+  nickName = 'Copybara';
   habitat = 'Seoul, South Korea';
   techSkill = {
     editor: ['VS Code'],
