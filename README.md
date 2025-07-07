@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Code block
+function makeDeveloper(name, language) {
+  if (name === 'ONE:A' && language === 'JavaScript') {
+    return 'perfect!';
+  }
+
+  return false;
+}
+
+makeDeveloper('ONE:A', 'JavaScript');
