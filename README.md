@@ -3,13 +3,26 @@
 
 ### Code block
 ```js
-function makeDeveloper(name, language) {
-  if (name === 'ONE:A' && language === 'JavaScript') {
-    return 'perfect!';
-  }
+class My {
+    name = '한상진';
+    nickName = 'capybara';
+    habitat = 'Seoul, South Korea';
+    techSkill = {
+    editor: ['VS Code'],
+    framework: ['ReactJS', 'ReactTS'],
+    packageManager: ['Yarn', 'Npm'],
+    buildTools: ['Vite', 'CRA'],
+    stateManagement: ['Redux'],
+    uiLibrary: ['styled-components', 'TailwindCss'],
+    apiLibrary: ['Axios', 'React-Query'],
+    formLibrary: ['React-Hook-Form', 'Zod'],
+    animation: ['GSAP'],
+    routing: ['React-Router'],
+};
 
-  return false;
+
+    toBeAUXEngineer() {}
+    moreCreative() {}
+    moreFun() {}
 }
-
-makeDeveloper('ONE:A', 'JavaScript');
 ```
