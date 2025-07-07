@@ -18,10 +18,10 @@ class MyIntro {
   };
 
   toBeFEDeveloper() {
-    console.log('계속 성장해서 프론트엔드 장인이 될 거예요 💪');
+    console.log('계속 성장하는 성장형 FE개발자 👍');
   }
   moreFun() {
-    console.log('코딩도 인생도 즐겁게 😄');
+    console.log('이왕 코딩하는거 즐기면서 😄');
   }
 }
 
