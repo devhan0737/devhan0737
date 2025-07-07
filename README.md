@@ -18,7 +18,7 @@ class My {
     formLibrary: ['React-Hook-Form', 'Zod'],
     animation: ['GSAP'],
     routing: ['React-Router'],
-};
+    };
 
 
     toBeAUXEngineer() {}
